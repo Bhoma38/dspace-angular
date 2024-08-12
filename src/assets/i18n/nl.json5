@@ -418,6 +418,10 @@
   // TODO New key - Add a translation
   "admin.access-control.epeople.form.canLogIn": "Can log in",
 
+  // "admin.access-control.epeople.form.phone" : "Phone",
+  // TODO New key - Add a translation
+  "admin.access-control.epeople.form.phone" : "Phone",
+
   // "admin.access-control.epeople.form.requireCertificate": "Requires certificate",
   // TODO New key - Add a translation
   "admin.access-control.epeople.form.requireCertificate": "Requires certificate",

@@ -425,6 +425,9 @@
   // "admin.access-control.epeople.form.canLogIn": "Can log in",
   "admin.access-control.epeople.form.canLogIn": "Bejelentkezhet",
 
+  // "admin.access-control.epeople.form.phone" : "Phone",
+  "admin.access-control.epeople.form.phone" : "telefon",
+
   // "admin.access-control.epeople.form.requireCertificate": "Requires certificate",
   "admin.access-control.epeople.form.requireCertificate": "Tanúsítvány szükséges",
 

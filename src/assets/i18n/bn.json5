@@ -395,6 +395,9 @@
   // "admin.access-control.epeople.form.canLogIn": "Can log in",
   "admin.access-control.epeople.form.canLogIn": "লগ ইন করতে পারেন",
 
+  // "admin.access-control.epeople.form.phone" : "Phone",
+  "admin.access-control.epeople.form.phone" : "ফোন",
+
   // "admin.access-control.epeople.form.requireCertificate": "Requires certificate",
   "admin.access-control.epeople.form.requireCertificate": "সার্টিফিকেট প্রয়োজন",
 

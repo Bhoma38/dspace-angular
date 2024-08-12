@@ -71,6 +71,8 @@
 
   "admin.access-control.epeople.form.lastName": "उपनाम",
 
+  "admin.access-control.epeople.form.phone" : "फ़ोन",
+
   "admin.access-control.epeople.form.memberOfNoGroups": "यह ई-व्यक्ति किसी भी समूह का सदस्य नहीं है",
 
   "admin.access-control.epeople.form.notification.created.failure": "\"{{name}}\" ई-व्यक्ति बनाने में विफल",

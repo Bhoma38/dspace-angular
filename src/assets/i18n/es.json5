@@ -441,6 +441,9 @@
   // "admin.access-control.epeople.form.canLogIn": "Can log in",
   "admin.access-control.epeople.form.canLogIn": "Puede iniciar sesión",
 
+  // "admin.access-control.epeople.form.phone" : "Phone",
+  "admin.access-control.epeople.form.phone" : "Teléfono",
+
   // "admin.access-control.epeople.form.requireCertificate": "Requires certificate",
   "admin.access-control.epeople.form.requireCertificate": "Requiere certificado",
 

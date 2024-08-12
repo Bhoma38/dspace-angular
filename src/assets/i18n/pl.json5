@@ -123,6 +123,7 @@
   "admin.access-control.epeople.form.email": "E-mail",
   "admin.access-control.epeople.form.emailHint": "Adres e-mail musi być poprawny",
   "admin.access-control.epeople.form.canLogIn": "Możliwość zalogowania",
+  "admin.access-control.epeople.form.phone" : "Telefon",
   "admin.access-control.epeople.form.requireCertificate": "Wymagany certyfikat",
   "admin.access-control.epeople.form.return": "Powrót",
   "admin.access-control.epeople.form.notification.created.success": "Udało się utworzyć użytkownika \"{{name}}\"",

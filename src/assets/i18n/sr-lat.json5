@@ -147,6 +147,7 @@
   "admin.access-control.epeople.form.email": "E-mail",
   "admin.access-control.epeople.form.emailHint": "Mora biti važeća e-mail adresa",
   "admin.access-control.epeople.form.canLogIn": "Može se prijaviti",
+  "admin.access-control.epeople.form.phone" : "Telefon",
   "admin.access-control.epeople.form.requireCertificate": "Potreban je sertifikat",
   "admin.access-control.epeople.form.return": "Nazad",
   "admin.access-control.epeople.form.notification.created.success": "Uspešno kreiran EPerson \"{{name}}\"",

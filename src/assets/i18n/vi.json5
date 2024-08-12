@@ -111,6 +111,7 @@
   "admin.access-control.epeople.button.add": "Thêm người dùng",
   "admin.access-control.epeople.button.see-all": "Duyệt toàn bộ",
   "admin.access-control.epeople.form.canLogIn": "Có thể đăng nhập",
+  "admin.access-control.epeople.form.phone" : "Điện thoại",
   "admin.access-control.epeople.form.create": "Tạo người dùng",
   "admin.access-control.epeople.form.edit": "Chỉnh sửa người dùng",
   "admin.access-control.epeople.form.email": "E-mail",

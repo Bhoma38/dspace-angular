@@ -24,6 +24,7 @@
   "admin.access-control.epeople.button.add": "Προσθήκη Eperson",
   "admin.access-control.epeople.button.see-all": "Περιήγηση σε όλα",
   "admin.access-control.epeople.form.canLogIn": "Δυνατότητα σύνδεσης",
+  "admin.access-control.epeople.form.phone" : "Τηλέφωνο",
   "admin.access-control.epeople.form.create": "Δημιουργία EPerson",
   "admin.access-control.epeople.form.edit": "Επεξεργασία EPerson",
   "admin.access-control.epeople.form.email": "Ηλεκτρονική Διεύθυνση",

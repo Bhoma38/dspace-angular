@@ -159,6 +159,7 @@
   "admin.access-control.epeople.form.email": "البريد الإلكتروني",
   "admin.access-control.epeople.form.emailHint": "يجب أن يكون عنوان بريد الإلكتروني صالح",
   "admin.access-control.epeople.form.canLogIn": "يمكننا تسجيل الدخول",
+  "admin.access-control.epeople.form.phone" : "هاتف",
   "admin.access-control.epeople.form.requireCertificate": "أنا",
   "admin.access-control.epeople.form.return": "رجوع",
   "admin.access-control.epeople.form.notification.created.success": "تم إنشاء الشخص الإلكتروني \"{{name}}\"",

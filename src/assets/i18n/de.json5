@@ -398,6 +398,9 @@
   // "admin.access-control.epeople.form.canLogIn": "Can log in",
   "admin.access-control.epeople.form.canLogIn": "Darf sich anmelden",
 
+  // "admin.access-control.epeople.form.phone" : "Phone",
+  "admin.access-control.epeople.form.phone" : "Telefon",
+
   // "admin.access-control.epeople.form.requireCertificate": "Requires certificate",
   "admin.access-control.epeople.form.requireCertificate": "Es wird ein Zertifikat benötigt.",
 
